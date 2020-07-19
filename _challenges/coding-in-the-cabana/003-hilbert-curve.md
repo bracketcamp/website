@@ -132,5 +132,11 @@ contributions:
       url: "https://jmbuhr.de/"
     url: "https://github.com/jannikbuhr/hilbeRt#example"
     source: "https://github.com/jannikbuhr/hilbeRt"
+  - title: "Hilbert curve image dithering"
+    author:
+      name: "Mohammadhosein Ghadaksaz"
+      url: "https://github.com/bracketcamp/"
+    url: "https://github.com/bracketcamp/HilbertCurveImageDithering/blob/master/result.png"
+    source: "https://github.com/bracketcamp/HilbertCurveImageDithering"
 ---
 It's the third episode of Coding in the Cabana! On this snowy day, I attempt to animate the path of the classic "space filling curve" known as the Hilbert Curve.
